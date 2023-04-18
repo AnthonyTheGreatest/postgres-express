@@ -1,0 +1,13 @@
+https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/
+
+(psql -U postgres)
+psql -d postgres -U me
+
+npm init -y
+npm i express pg 
+
+index.js ...
+
+queries.js ...
+
+postman ...
